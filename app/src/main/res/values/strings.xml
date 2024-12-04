@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="connect">接続</string>
+    <string name="connection_off">Not connected</string>
+    <string name="connect_on">On</string>
+
+</resources>
